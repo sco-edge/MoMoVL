@@ -6,7 +6,8 @@ Paper link (ACM DL) : [TBA]()
 Author preprint : [TBA]()
 
 ## Overview
-![Workflow Overview of MoMoVL](./MoMoVL.png)
+
+<img src="./MoMoVL.png" alt="Workflow Overview of MoMoVL" width="50%">
 
 ## How to run this project
 
