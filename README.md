@@ -120,16 +120,5 @@ TBA
 ```
 
 ## License
-The original code of this repository is released under the [MIT License](LICENSE).
-
-This repository also includes third-party code, which remains under its original license:
-
-| Component | Location in this repo | License |
-| --- | --- | --- |
-| [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | `vlmeval_run.py`, `vlmeval/` | [Apache-2.0](LICENSES/Apache-2.0-VLMEvalKit.txt) |
-| [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) | `models/deepseek_vl2/`, `utils/deepseek_vl2/` | [MIT](LICENSES/MIT-DeepSeek-VL2.txt) (`modeling_deepseek*.py`: [Apache-2.0](LICENSES/Apache-2.0.txt)) |
-| [MolmoE-1B](https://huggingface.co/allenai/MolmoE-1B-0924) | `models/molmoe/` | [Apache-2.0](LICENSES/Apache-2.0.txt) |
-| [Hugging Face Transformers](https://github.com/huggingface/transformers) | `utils/molmoe/processing_utils.py` | [Apache-2.0](LICENSES/Apache-2.0-transformers.txt) |
-| [Fate](https://github.com/FFFzy/Fate_open) | part of `utils/bitwidth.py` | [MIT](LICENSES/MIT-Fate.txt) |
-
-Some of these files were modified for MoMoVL. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
+This project is released under the [MIT License](LICENSE).  
+It includes third-party code under the Apache-2.0 and MIT licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
