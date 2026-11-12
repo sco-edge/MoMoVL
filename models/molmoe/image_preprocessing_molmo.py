@@ -1,3 +1,7 @@
+# From allenai/MolmoE-1B-0924 (https://huggingface.co/allenai/MolmoE-1B-0924),
+# licensed under the Apache License, Version 2.0 (see LICENSES/Apache-2.0.txt).
+# Modified by Dongkeun Lee for MoMoVL, 2026.
+
 """Image processor class for Molmo"""
 from typing import List, Optional, Union, Mapping
 

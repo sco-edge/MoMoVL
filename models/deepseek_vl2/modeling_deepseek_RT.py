@@ -17,6 +17,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# Derived from modeling_deepseek.py of DeepSeek-VL2 (https://github.com/deepseek-ai/DeepSeek-VL2).
+# Modified by Dongkeun Lee for MoMoVL, 2026 (see LICENSES/Apache-2.0.txt).
 """ PyTorch DeepSeek model and compatible with both DeepSeekV2 and DeepSeekV3"""
 import math
 import warnings

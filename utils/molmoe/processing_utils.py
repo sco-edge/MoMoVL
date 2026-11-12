@@ -16,6 +16,7 @@
 Processing saving/loading class for common processors.
 """
 # Source copied from transformers 4.45.0
+# Modified by Dongkeun Lee for MoMoVL, 2026 (see LICENSES/Apache-2.0-transformers.txt).
 import copy
 import inspect
 import json

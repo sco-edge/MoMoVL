@@ -1,3 +1,9 @@
+# Part of MoMoVL, licensed under the MIT License (see LICENSE).
+#
+# The 'Fate' branch of get_bitwidth_assignment() is adapted from Fate_open
+# (https://github.com/FFFzy/Fate_open), Copyright (c) 2026 Zhiyuan Fang,
+# released under the MIT License (see LICENSES/MIT-Fate.txt).
+
 import torch
 from collections import Counter
 
